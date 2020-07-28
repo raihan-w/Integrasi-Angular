@@ -1,3 +1,6 @@
+# Note
+rest-api akan dipush pada respositori yang berbeda yang dapat diakses melalui, https://github.com/Raihanw/ci3_rest-api.git
+
 # Admin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
